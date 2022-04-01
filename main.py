@@ -17,7 +17,7 @@
 # learn multithreading
 # create multipule client server connections - pass a string to print
 
-# part 3
+# part 3q
 # learen pygame
 # create the board and display
 # connect between clients , board and server
